@@ -20,4 +20,4 @@ Files:
 
 1. Jupyter notebook: Preliminary analysis over the dataset, uncovering general trends and insights from the data.
 2. Tableau link: Visualization and analysis of rental trends and behaviors in order to provide guidelines for the rental investment business
-[Tableau: Short Rental Review]([https://public.tableau.com/views/NYcity-ShortRentalReview/DashboardPrice?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/K9MJ8HT27?:display_count=n&:origin=viz_share_link)https://public.tableau.com/shared/K9MJ8HT27?:display_count=n&:origin=viz_share_link)
+[Tableau: Short Rental Review](https://public.tableau.com/views/NYcity-ShortRentalReview/DashboardPrice?:language=en-US&:display_count=n&:origin=viz_share_link)
