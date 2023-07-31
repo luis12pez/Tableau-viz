@@ -13,4 +13,4 @@ Files:
 
 1. Jupyter notebook:
 2. Tableau link: 
-[Tableau: Short Rental Review]()
+[Tableau: ]()
