@@ -12,5 +12,5 @@
 Files:
 
 1. Jupyter notebook:
-2. Data link: [Data Source: ](https://datacatalog.worldbank.org/search/dataset/0037652/Health-Nutrition-and-Population-Statistics)
+2. Data link: [Data Source](https://datacatalog.worldbank.org/search/dataset/0037652/Health-Nutrition-and-Population-Statistics)
 3. Tableau link: 
