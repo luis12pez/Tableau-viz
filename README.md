@@ -19,6 +19,6 @@ The main take aways from this step are:
 
 Files:
 
-1. Jupyter notebook: Python code saved as jupyter and pdf format. File name: 'data_transformation.html' and 'data_transformation.ipynb'
+1. Jupyter notebook: Python code saved as jupyter and html format. File name: 'data_transformation.html' and 'data_transformation.ipynb'
 2. Data source link: [Data Source](https://datacatalog.worldbank.org/search/dataset/0037652/Health-Nutrition-and-Population-Statistics)
 3. Tableau link: 
