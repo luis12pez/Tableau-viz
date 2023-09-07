@@ -17,7 +17,7 @@ The main take aways from this step are:
         + Raw data came in a wide format. It was decided to reshaped the data in a long format, eventhough memory usage was increased slightly. 
           Now, the data is in a more friendly user format and ready for further analysis.
           
-4.   Dataset imported to Tableau for a more indeep analysis and visualization
+4.   Dataset imported to Tableau for developing the first interactive dashboard. It is about World population.
 
 Files:
 
