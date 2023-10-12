@@ -16,6 +16,6 @@ Dataset about the short-term rental market in New York City. Aiming to uncover k
 
 ### Branch B - Health-Nutrition and Population Statistics (HNP Statistics)
 
-**WORK IN PROGRESS**
+WORK IN PROGRESS
 
 Dataset contains a diverse range of information concerning global health, nutrition and population. The main objective is to analyze population dynamics and health trends. Seeking to uncover insights and patterns at different scales.
