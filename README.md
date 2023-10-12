@@ -1,6 +1,6 @@
 # Portafolio: Data visualization | Tableau
 
-The purpose of the present repository is to several case studies using Python and Tableau. Each case study will be presented on its own separate branch, encompassing raw data, analysis, and associated files or links to the visualization. Additionally, every branch will contain a README.cd file providing an explanation of the respective case.
+The purpose of the present repository is to show several case studies using Python and Tableau. Each case study will be presented on its own separate branch, encompassing raw data, analysis, and associated files or links to the visualization. Additionally, every branch will contain a README.cd file providing an explanation of the respective case.
 
 ## DATA ANALYSIS WORKFLOW
 
