@@ -1,21 +1,16 @@
-# Portafolio: Data visualization | Tableau
+## DESCRIPTION
 
-The purpose of the present repository is to show several case studies using Python and Tableau. Each case study will be presented on its own separate branch, encompassing raw data, analysis, and associated files or links to the visualization. Additionally, every branch will contain a README.cd file providing an explanation of the respective case.
+### Branch C - Job Market Data (Fictitious)
+The Dataset contains data related to the short-term rental market in New York City. The primary objective of this study is to unveil significant trends sought-after neighborhoods, rental prices and property types. The aim is to offer an overview, catering to both potential inverstors seeking to vventure into this business model and individuals planning a short stay in the city. By doing so, they can gain insights into estimated budgets and optimal choices tailored to their specific requirements.
 
-## DATA ANALYSIS WORKFLOW
+## WORKFLOW
 
-1. Databases available either in  public serves (sucha as ElephantSQL) or the file/link will be available to download locally.
-2. Data cleaning, primary visualization, and transformation is performed with the help of Python and MS Excel, depending on the specific cases.
-3. Final data visualization and dashboarding using Tableau.
+1. The database was made available in an open SQL server - ElephantSQL (Credentials inside the python file)
+2. Data cleaning, primary visualization, and transformation were done using Python
+3. Final data visualization, dashboarding, and providing business insights using Tableau
 
+Files:
 
-## PROJECTS
-
-### Branch A - Short term rental / Airbnb - New York City
-Dataset about the short-term rental market in New York City. Aiming to uncover key trends in popular neighborhoods, rental prices, property types, length of stay, and demand over time.
-
-### Branch B - Health-Nutrition and Population Statistics (HNP Statistics)
-
-WORK IN PROGRESS
-
-Dataset contains a diverse range of information concerning global health, nutrition and population. The main objective is to analyze population dynamics and health trends. Seeking to uncover insights and patterns at different scales.
+1. Jupyter notebook: Preliminary analysis over the dataset, uncovering general trends and tendencies of the data.
+2. Tableau link: Visualization and analysis of rental trends and behaviors. Two dashboards were generated to provide an interactive to tool for analyzing short-term rentals in city
+[Tableau: Short Rental Review](https://public.tableau.com/views/NYcity-ShortRentalReview/PriceReview?:language=en-US&:display_count=n&:origin=viz_share_link)
