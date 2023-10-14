@@ -19,3 +19,8 @@ Dataset about the short-term rental market in New York City. Aiming to uncover k
 WORK IN PROGRESS
 
 Dataset contains a diverse range of information concerning global health, nutrition and population. The main objective is to analyze population dynamics and health trends. Seeking to uncover insights and patterns at different scales.
+
+### Branch C - Job Market Analysis
+
+WORK IN PROGRESS
+Job posting database containing data about jobs related to "Data science and analytics" roles in the United States. It contains enough information about location, industry, type of posistion, skills/description and wages to develop visualizations capable of showing general insights about this industry.
