@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
 ### Branch C - Job Market Data (Fictitious)
-The Dataset contains data related to the short-term rental market in New York City. The primary objective of this study is to unveil significant trends sought-after neighborhoods, rental prices and property types. The aim is to offer an overview, catering to both potential inverstors seeking to vventure into this business model and individuals planning a short stay in the city. By doing so, they can gain insights into estimated budgets and optimal choices tailored to their specific requirements.
+
 
 ## WORKFLOW
 
