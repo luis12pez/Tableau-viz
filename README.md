@@ -12,6 +12,8 @@ The purpose of the present repository is to show several case studies using Pyth
 ## PROJECTS
 
 ### Branch A - Short term rental / Airbnb - New York City
+[A - Short Rental NYC](../../tree/A---Short-Rental-NYC)
+
 Dataset about the short-term rental market in New York City. Aiming to uncover key trends in popular neighborhoods, rental prices, property types, length of stay, and demand over time.
 
 ### Branch B - Health-Nutrition and Population Statistics (HNP Statistics)
