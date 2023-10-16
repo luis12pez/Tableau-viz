@@ -4,7 +4,7 @@ The purpose of the present repository is to show several case studies using Pyth
 
 ## DATA ANALYSIS WORKFLOW
 
-1. Databases available either in  public serves (sucha as ElephantSQL) or the file/link will be available to download locally.
+1. Databases available either in  public serves (such as ElephantSQL) or the file/link will be available to download locally.
 2. Data cleaning, primary visualization, and transformation is performed with the help of Python and MS Excel, depending on the specific cases.
 3. Final data visualization and dashboarding using Tableau.
 
@@ -26,4 +26,4 @@ Dataset contains a diverse range of information concerning global health, nutrit
 
 WORK IN PROGRESS
 
-Job posting database containing data about jobs related to "Data science and analytics" roles in the United States. It contains enough information about location, industry, type of posistion, skills/description and wages to develop visualizations capable of showing general insights about this industry.
+Job posting database containing data about jobs related to "Data science and analytics" roles in the United States. It contains enough information about location, industry, type of posistion, skills/description and wages to develop visualizations capable of showing general insights about the industry.
