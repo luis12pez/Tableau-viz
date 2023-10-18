@@ -19,9 +19,10 @@ Files:
 
 1. Dashboard "Job Analytics - Tableau Skills"
    
-   a. Deamnd of Data analysis roles with Tableau knowledge hasconstantly increased (from 2017 to 2021) as it is shown in the job posting count plot. It seems, companies are tilted interested in hire Data Analyst/Science/Engineers at Mid-Senior Level, it means with 5 to 6        years of experience
+   a. Deamnd of Data analysis roles with Tableau knowledge has constantly increased (from 2017 to 2021) as it is shown in the job posting count plot. Besides, it seems companies are more interested in hire Data Analyst/Science/Engineers at Mid-Senior Level, it means with 
+      5 to 6 years of experience
    
-   b. Among the 1220 job posting that require Tableau as one of main skills. Around the 50% of them are for position as Data Analyst.
+   b. Among the 1220 job posting that require Tableau as one of main skills. 50% of them are for position as Data Analyst.
    
    c. Conversely, Data Analyst roles (With Tableau skills requirements) have the lowest average pay range compared to the other types of roles (Data Engineer and Data Scientist) no matter the senority level (Years of experience)
    
