@@ -13,7 +13,7 @@ Files:
 
 1. CSV file: "job_postings.csv". Dataset
 2. Tableau link: Visualization and analysis of job postings trends and behaviors. Dashboard to provide an interactive tool for analyzing job postings which one of the main requirement is skill on Tableau
-[Tableau: Job Market Analysis](https://public.tableau.com/views/JobMarket_16973110717850/JobAnalystics?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Tableau: Job Market Analysis]([https://public.tableau.com/views/JobMarket_16973110717850/JobAnalystics?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/JobMarket_16973110717850/JobAnalystics-Tableauskills?:language=en-US&:display_count=n&:origin=viz_share_link))
 
 ## INSIGHTS | COMMENTS
 
