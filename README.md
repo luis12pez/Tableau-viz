@@ -17,7 +17,8 @@ Files:
 
 ## EXECUTIVE SUMMARY
 
-General
+# General Overview
+
 Relational Database, formed by 3 tables (Price, Reviews and Room Type) with the data of around 25000 distinct listings from January 2019 to July 2019.
 
 Listings are categorized according to the Borough they belong to (Brooklyn, Manhattan, Queens, Bronx, Staten Island) in the city of New York. 
