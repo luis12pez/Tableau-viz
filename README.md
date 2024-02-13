@@ -17,7 +17,7 @@ Files:
 
 ## EXECUTIVE SUMMARY
 
-# General Overview
+### General Overview
 
 Relational Database, formed by 3 tables (Price, Reviews and Room Type) with the data of around 25000 distinct listings from January 2019 to July 2019.
 
