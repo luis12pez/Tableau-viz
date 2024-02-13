@@ -28,6 +28,10 @@ Aditionally, it was ideintified that the price/night distribution is right-skewe
 
 ![Histogram-Price](https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/Histo-price.png) ![Cumulative-Distribution](https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/cumm-distri-price.png)
 
+<div style="display:flex;">
+    <img src="https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/Histo-price.png" alt="Histogram-Price" style="width:50%;">
+    <img src="https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/cumm-distri-price.png" alt="Cumulative-Distribution" style="width:50%;">
+</div>
 
 
 ### [Go Back](https://github.com/luis12pez/Tableau-viz)
