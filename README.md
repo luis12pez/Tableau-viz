@@ -24,7 +24,7 @@ Listings are categorized according to the Borough they belong to (Brooklyn, Manh
 Initially, it was find that the Boroughs of Brooklyn and Manhattan possess around 80% of the total places listed. As well as, Private rooms and entire homes are the predominant type of listings avaliable. 
 Aditionally, it was ideintified that the price/night distribution is right-skewed, meaning that there are listings overpassing the 1000 USD a night. However, the most frequent price falls between 50 to 200 USD/night, which also cover the 70% of the data available.
 
-![Histogram-Price](https://raw.githubusercontent.com/luis12pez/Tableau-viz/tree/A---Short-Rental-NYC/Histo-price.png)
+![Histogram-Price](https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/Histo-price.png)
 
 
 
