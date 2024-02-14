@@ -15,9 +15,7 @@ Files:
 2. Tableau link: Visualization and analysis of rental trends and behaviors. Two dashboards were generated to provide an interactive tool for analyzing short-term rentals in city
 [Tableau: Short Rental Review](https://public.tableau.com/views/NYcity-ShortRentalReview/PriceReview?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-## EXECUTIVE SUMMARY
-
-### General Overview
+## General Overview
 
 Relational Database, formed by 3 tables (Price, Reviews and Room Type) with the data of around 25000 distinct listings from January 2019 to July 2019.
 
@@ -32,22 +30,20 @@ Aditionally, it was ideintified that the price/night distribution is right-skewe
     <img src="https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/cumm-distri-price.png" alt="Cumulative-Distribution" style="width:50%;">
 </div>
 
-In term of average prices, the Borough of Manhattan double most of the other boroughs, being coherent with that the borough is the center of tourisim of the city. Where, as it will be expected the entire home type of room is the most expensive
+In terms of average prices, the Borough of Manhattan doubles most of the other boroughs, which is coherent with the fact that the borough is the center of tourism in the city. Additionally, as expected, the entire home type of room is the most expensive.
 
-| borough        | Average price (USD/month) | room_type    | Average Price |
+| borough        | Average price (USD/month) | Room type    | Average Price |
 |----------------|---------------|-----------------|---------------|
-| Manhattan      | 5600   | entire home/apt | 5997.226536   |
-| Brooklyn       | 3700   | private room    | 2484.254654   |
-| Queens         | 2800   | shared room     | 1631.789174   |
+| Manhattan      | 5600   | entire home/apt | 6000   |
+| Brooklyn       | 3700   | private room    | 2500   |
+| Queens         | 2800   | shared room     | 1600   |
 | Staten Island  | 2600   |
 | Bronx          | 2400   |
 
-| room_type       | Average Price |
-|-----------------|---------------|
-| entire home/apt | 5997.226536   |
-| private room    | 2484.254654   |
-| shared room     | 1631.789174   |
+Having a quick look at the monthly variation in prices does not reveal a clear seasonality. However, some price increments are seen as summer approaches 
 
-
+<div style="display:flex; flex-direction: row;">
+    <img src="https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/price-variation.png" alt="Price Variation" style="width:40%;">
+</div>
 
 ### [Go Back](https://github.com/luis12pez/Tableau-viz)
