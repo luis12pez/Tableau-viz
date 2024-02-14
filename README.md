@@ -21,7 +21,7 @@ Relational Database, formed by 3 tables (Price, Reviews and Room Type) with the 
 
 Listings are categorized according to the Borough (Brooklyn, Manhattan, Queens, Bronx, Staten Island) and Neighbourhood they belong to in the city of New York. 
 
-Initially, it was find that the Boroughs of Brooklyn and Manhattan possess around 80% of the total places listed. As well as, Private rooms and entire homes are the predominant type of listings avaliable, they represent the 97% of them. 
+Initially, it was found that the Boroughs of Brooklyn and Manhattan possess around 80% of the total places listed. As well as, Private rooms and entire homes are the predominant type of listings avaliable, they represent the 97% of them. 
 
 Aditionally, it was ideintified that the price/night distribution is right-skewed, meaning that there are listings overpassing the 1000 USD a night. However, the most frequent price falls between 50 to 200 USD/night, which also cover the 70% of the data available.
 
