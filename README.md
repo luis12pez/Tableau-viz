@@ -34,11 +34,11 @@ Aditionally, it was ideintified that the price/night distribution is right-skewe
 
 In term of average prices, the Borough of Manhattan double most of the other boroughs, being coherent with that the borough is the center of tourisim of the city. Where, as it will be expected the entire home type of room is the most expensive
 
-| borough        | Average price (USD/month) |
-|----------------|---------------|
-| Manhattan      | 5600   |
-| Brooklyn       | 3700   |
-| Queens         | 2800   |
+| borough        | Average price (USD/month) | room_type    | Average Price |
+|----------------|---------------|-----------------|---------------|
+| Manhattan      | 5600   | entire home/apt | 5997.226536   |
+| Brooklyn       | 3700   | private room    | 2484.254654   |
+| Queens         | 2800   | shared room     | 1631.789174   |
 | Staten Island  | 2600   |
 | Bronx          | 2400   |
 
@@ -48,65 +48,6 @@ In term of average prices, the Borough of Manhattan double most of the other bor
 | private room    | 2484.254654   |
 | shared room     | 1631.789174   |
 
-<div style="display:flex;">
-    <div style="flex:1;margin-right:10px;">
-        <table>
-            <thead>
-                <tr>
-                    <th>borough</th>
-                    <th>Average price (USD/month)</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>Manhattan</td>
-                    <td>5600</td>
-                </tr>
-                <tr>
-                    <td>Brooklyn</td>
-                    <td>3700</td>
-                </tr>
-                <tr>
-                    <td>Queens</td>
-                    <td>2800</td>
-                </tr>
-                <tr>
-                    <td>Staten Island</td>
-                    <td>2600</td>
-                </tr>
-                <tr>
-                    <td>Bronx</td>
-                    <td>2400</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-
-    <div style="flex:1;">
-        <table>
-            <thead>
-                <tr>
-                    <th>room_type</th>
-                    <th>Average Price</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>entire home/apt</td>
-                    <td>5997.226536</td>
-                </tr>
-                <tr>
-                    <td>private room</td>
-                    <td>2484.254654</td>
-                </tr>
-                <tr>
-                    <td>shared room</td>
-                    <td>1631.789174</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-</div>
 
 
 ### [Go Back](https://github.com/luis12pez/Tableau-viz)
