@@ -11,18 +11,18 @@ The purpose of the present repository is to show several case studies using Pyth
 
 ## PROJECTS
 
-### Branch A - Short term rental / Airbnb - New York City  [A - Short Rental NYC](../../tree/A---Short-Rental-NYC)
+### Branch A - Short term rental / Airbnb - New York City   👉👉👉  To Go to the project click  👉👉👉 [A - Short Rental NYC](../../tree/A---Short-Rental-NYC)
 
 
 Dataset about the short-term rental market in New York City. Aiming to uncover key trends in popular neighborhoods, rental prices, property types, length of stay, and demand over time.
 
-### Branch B - Health-Nutrition and Population Statistics (HNP Statistics)  [B - HNP Statistics](../../tree/B---HNP-Statistics)
+### Branch B - Health-Nutrition and Population Statistics (HNP Statistics)   👉👉👉  To Go to the project click  👉👉👉   [B - HNP Statistics](../../tree/B---HNP-Statistics)
 
 WORK IN PROGRESS
 
 Dataset contains a diverse range of information concerning global health, nutrition and population. The main objective is to analyze population dynamics and health trends. Seeking to uncover insights and patterns at different scales.
 
-### Branch C - Job Market Analysis  [C - Data Analysis Job Market](../../tree/C---Data-Analysis-Job-Market)
+### Branch C - Job Market Analysis   👉👉👉  To Go to the project click  👉👉👉   [C - Data Analysis Job Market](../../tree/C---Data-Analysis-Job-Market)
 
 WORK IN PROGRESS
 
