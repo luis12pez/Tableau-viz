@@ -28,7 +28,7 @@ Initially, it was find that the Boroughs of Brooklyn and Manhattan possess aroun
 Aditionally, it was ideintified that the price/night distribution is right-skewed, meaning that there are listings overpassing the 1000 USD a night. However, the most frequent price falls between 50 to 200 USD/night, which also cover the 70% of the data available.
 
 <div style="display:flex; flex-direction: row;">
-    <img src="https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/Histo-price.png" alt="Histogram-Price" style="width:50%;">
+    <img src="https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/Histo-price.png" alt="Histogram-Price" style="width:40%;">
     <img src="https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/cumm-distri-price.png" alt="Cumulative-Distribution" style="width:50%;">
 </div>
 
