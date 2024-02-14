@@ -29,7 +29,7 @@ Aditionally, it was ideintified that the price/night distribution is right-skewe
 
 <div style="display:flex; flex-direction: row;">
     <img src="https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/Histo-price.png" alt="Histogram-Price" style="width:40%;">
-    <img src="https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/cumm-distri-price.png" alt="Cumulative-Distribution" style="width:50%;">
+    <img src="https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/cumm-distri-price.png" alt="Cumulative-Distribution" style="width:50%;height:60%;">
 </div>
 
 
