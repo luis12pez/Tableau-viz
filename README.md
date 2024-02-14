@@ -43,7 +43,7 @@ In terms of average prices, the Borough of Manhattan doubles most of the other b
 Having a quick look at the monthly variation in prices does not reveal a clear seasonality. However, some price increments are seen as summer approaches 
 
 <div style="display:flex; flex-direction: row;">
-    <img src="https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/price-variation.png" alt="Price Variation" style="width:40%;">
+    <img src="https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/price-variation.png" alt="Price Variation" style="width:100%;">
 </div>
 
 ### [Go Back](https://github.com/luis12pez/Tableau-viz)
