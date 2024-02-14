@@ -32,7 +32,7 @@ Aditionally, it was ideintified that the price/night distribution is right-skewe
 
 In terms of average prices, the Borough of Manhattan doubles most of the other boroughs, which is coherent with the fact that the borough is the center of tourism in the city. Additionally, as expected, the entire home type of room is the most expensive.
 
-| borough        | Average price (USD/month) | Room type    | Average Price |
+| borough        | Average price (USD/month) | Room type    | Average Price (USD/month) |
 |----------------|---------------|-----------------|---------------|
 | Manhattan      | 5600   | entire home/apt | 6000   |
 | Brooklyn       | 3700   | private room    | 2500   |
