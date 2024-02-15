@@ -12,10 +12,9 @@
 
 The main take aways from this step are:
 
-        + Data extracted is related to population dynamics & structure, life expentancy and mortality & death indexes. At world, region and country scale.
-        + Data was divided into five dataframes, where each one contains one topic of the ones aforementioned. Dataset was designed aiming to work as relational database.
-        + Raw data came in a wide format. It was decided to reshaped the data in a long format, eventhough memory usage was increased slightly. 
-          Now, the data is in a more friendly user format and ready for further analysis.
+- Data extracted is related to population dynamics & structure, life expentancy and mortality & death indexes. At world, region and country scale.
+- Data was divided into five dataframes, where each one contains one topic of the ones aforementioned. Dataset was designed aiming to work as relational database.
+- Raw data came in a wide format. It was decided to reshaped the data in a long format, eventhough memory usage was increased slightly. Now, the data is in a more friendly user format and ready for further analysis.
           
 4.   Dataset imported to Tableau for developing an interactive dashboard about World population.
 
