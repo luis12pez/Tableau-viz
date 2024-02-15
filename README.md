@@ -46,4 +46,24 @@ Having a quick look at the monthly variation in prices does not reveal a clear s
     <img src="https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/price-variation.png" alt="Price Variation" style="width:100%;">
 </div>
 
+Finally, by following the Tableau link provided earlier, two interactive dashboards can be accessed. These dashboards allow users to interact with the available data.
+
+The "Price Review" dashboard offers users the ability to investigate pricing behavior across the dataset. Whether the user is planning a visit to the city or considering investing in real estate, this dashboard provides an overall view per borough and neighborhood in terms of price distribution. It enables users to identify affordable and/or expensive regions, as well as the types of accommodations available for rent based on different budgets.
+
+Some key point are
+         
+- 95% of the listed accommodations fall within the price range of $40 to $300 per night
+- Entire home/apartment rentals typically range from $40 to $300 per night, while private rooms are in between $40 and $200 per night. On the other hand, the shared room option is the most affordable, with prices mostly below $100 per night
+- Brooklyn and Manhattan have the highest number of listings available and also tend to have the most expensive rentals per night (reaching max. prices up to $7500 and $5100, respectively)
+- Staten Island and the Bronx are the areas where you can find affordable rentals (max. prices of $600 and $300, respectively)
+         
+Additionally, "Review-Price-Availability" dashboard offers additional insights for users, including listing availability for the upcoming year and the impact of reviews on pricing and already booked nights. This information is particularly valuable for individuals interested in operating short-term rentals in the city.
+
+Some key point are
+
+- Not only the amount of reviews will impact in the price of the rental. But also factors, such as longevity of the place as rental, room type and amenities offered.
+- Some rentals do not need many reviews in order to be at high rental price. As mention before, could be given by time renting, room type and amenities offered, but also, due to the location. It is well known that this area of New York city is one of the more exclusive (Business and Turistic nature)
+- Nights booked vs price relationship will depend on the location of the rental and the type of room offered
+- NY is a very visited city, either for business or turisim. There will be always a fairly occupancy rate for any rental available, as it is shown in the histogram at the bottom right. Being Mahattan and Brooklyn, the areas which attract more guests
+
 ### [Go Back](https://github.com/luis12pez/Tableau-viz)
