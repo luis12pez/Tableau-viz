@@ -6,8 +6,8 @@ The Dataset contains data related to the short-term rental market in New York Ci
 ## WORKFLOW
 
 1. The database was made available in an open SQL server - ElephantSQL (Credentials inside the python file)
-2. Data cleaning, primary visualization, and transformation were done using Python
-3. Final data visualization, dashboarding, and providing business insights using Tableau
+2. Data cleaning, primary visualization, and transformation were done using Python (Libraries used: Numpy - Pandas - Matplotlip - Seaborn)
+3. Final data visualization, dashboarding, and providing business insights using Tableau Public
 
 Files:
 
@@ -51,7 +51,7 @@ Finally, by following the Tableau link provided earlier, two interactive dashboa
 
 The "Price Review" dashboard offers users the ability to investigate pricing behavior across the dataset. Whether the user is planning a visit to the city or considering investing in real estate, this dashboard provides an overall view per borough and neighborhood in terms of price distribution. It enables users to identify affordable and/or expensive regions, as well as the types of accommodations available for rent based on different budgets.
 
-Some key point are
+Some key points are
          
 - 95% of the listed accommodations fall within the price range of $40 to $300 per night
 - Entire home/apartment rentals typically range from $40 to $300 per night, while private rooms are in between $40 and $200 per night. On the other hand, the shared room option is the most affordable, with prices mostly below $100 per night
@@ -60,7 +60,7 @@ Some key point are
          
 Additionally, "Review-Price-Availability" dashboard offers additional insights for users, including listing availability for the upcoming year and the impact of reviews on pricing and already booked nights. This information is particularly valuable for individuals interested in operating short-term rentals in the city.
 
-Some key point are
+Some key points are
 
 - Not only the amount of reviews will impact in the price of the rental. But also factors, such as longevity of the place as rental, room type and amenities offered.
 - Some rentals do not need many reviews in order to be at high rental price. As mention before, could be given by time renting, room type and amenities offered, but also, due to the location. It is well known that this area of New York city is one of the more exclusive (Business and Turistic nature)
