@@ -46,6 +46,7 @@ Having a quick look at the monthly variation in prices does not reveal a clear s
     <img src="https://raw.githubusercontent.com/luis12pez/Tableau-viz/A---Short-Rental-NYC/price-variation.png" alt="Price Variation" style="width:100%;">
 </div>
 
+
 Finally, by following the Tableau link provided earlier, two interactive dashboards can be accessed. These dashboards allow users to interact with the available data.
 
 The "Price Review" dashboard offers users the ability to investigate pricing behavior across the dataset. Whether the user is planning a visit to the city or considering investing in real estate, this dashboard provides an overall view per borough and neighborhood in terms of price distribution. It enables users to identify affordable and/or expensive regions, as well as the types of accommodations available for rent based on different budgets.
