@@ -65,6 +65,6 @@ Some key points are
 - Not only the amount of reviews will impact in the price of the rental. But also factors, such as longevity of the place as rental, room type and amenities offered.
 - Some rentals do not need many reviews in order to be at high rental price. As mention before, could be given by time renting, room type and amenities offered, but also, due to the location. It is well known that this area of New York city is one of the more exclusive (Business and Turistic nature)
 - Nights booked vs price relationship will depend on the location of the rental and the type of room offered
-- NY is a very visited city, either for business or turisim. There will be always a fairly occupancy rate for any rental available, as it is shown in the histogram at the bottom right. Being Mahattan and Brooklyn, the areas which attract more guests
+- NY is a highly visited city, either for business or turisim. There will be always a fairly occupancy rate for any rental available, as it is shown in the histogram at the bottom right. Being Mahattan and Brooklyn, the areas which attract more guests
 
 ### [Go Back](https://github.com/luis12pez/Tableau-viz)
